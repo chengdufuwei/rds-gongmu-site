@@ -12,7 +12,6 @@
 - `404.html`：静态 404 回退页
 - `assets/css/styles.css`：页面样式
 - `assets/js/main.js`：tab 切换和图片预览交互
-- `assets/favicon.svg`：站点图标
 - `sucai/`：新增实景墓碑图片、墓区环境图片和航拍视频
 - `_headers`：Cloudflare Pages 缓存与安全响应头
 - `.nojekyll`：避免静态托管时对特殊文件名产生干扰
